@@ -39,6 +39,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
+
 ![](https://github.com/nicholas-palermo/simon-says-prework/blob/c65de3810c70650006fed846548c1a93fe0ea06e/ezgif.com-gif-maker.gif)
 
 
